@@ -1,4 +1,4 @@
-# Learning Pyhton through building a Blockchain app
+# Learning Python through building a Blockchain app
 
 This application will be built with the aim of going through all Python basics working with loop and conditionals through more complex data structures and OOP. As side effect this app ill also give us insight into the use of the blockchain technology
 
