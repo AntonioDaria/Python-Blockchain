@@ -6,7 +6,7 @@ This application will be built with the aim of going through all Python basics w
 ### Technologies used
 
 - Python
-- Flasks
+- Flask
 
 ### How to run the application
 
